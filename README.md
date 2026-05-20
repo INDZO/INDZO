@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Web+Development+%7C+Software+Development;Algorithms+%7C+Databases+%7C+Problem+Solving;Open+to+Internships%2C+Junior+Roles+and+Collaboration)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hamzagicinas.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzagicinas.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzagicinas.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-INDZO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INDZO)
 [![CV](https://img.shields.io/badge/CV-Download-22c55e?style=for-the-badge&logo=readme&logoColor=white)](./Inas%20Hamzagic.pdf)
 [![Email](https://img.shields.io/badge/Email-hamzaagicinas%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaagicinas@gmail.com)
