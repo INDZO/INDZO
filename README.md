@@ -35,7 +35,10 @@ status   : Open to internships, junior developer opportunities and collaboration
 | Project | Description | Tech |
 | --- | --- | --- |
 | **ServisPro** | Auto-service platform with client, service provider, and admin workflows. | React, ASP.NET Core, MS SQL Server, REST API |
+| **[Bitka Upside Down](https://bitka-upside-down.onrender.com/)** | Full-stack realtime turn-based 8-bit chase game with backend-owned game rules, maps, timers, AI decisions, statistics, WebSocket updates, and REST fallback. | React, Vite, Django, DRF, Django Channels, WebSocket, SQLite, MinMax, Alpha-Beta, A*, MCTS |
 | **[ServisPro Documentation](https://github.com/INDZO/Softversko-Inzenjerstvo-2026)** | Complete software engineering documentation for ServisPro, including project definition, realization plan, system vision, requirements specification, architecture design, test planning, test specification, user guide, and modeling files. | Software documentation, requirements engineering, architecture, testing, UML/modeling |
+| **[tele.com](https://indzo.github.io/tele.com/)** | Static telecom website with multiple pages for services, packages, contact, login/account flow, and user data handling. [Code](https://github.com/INDZO/tele.com) | HTML, CSS, JavaScript, GitHub Pages |
+| **[IS Biblioteka](https://github.com/INDZO/IS_Biblioteka-master)** | Desktop information system for library management with forms for books, members, issuing books, repositories, and database connection logic. | C#, Windows Forms, .NET |
 | **ElitDent** | Dental clinic web application deployed on an Ubuntu server. | Laravel, PHP, MySQL, Nginx, Ubuntu, HTTPS |
 | **Knowledge That Doesn't Fade** | AI-assisted learning application focused on helping students build durable knowledge. | Next.js, AI integration, web technologies |
 | **Stomatology IS** | Information system modeling project for a dental clinic. | SSA, DFD, EER, relational database design |
