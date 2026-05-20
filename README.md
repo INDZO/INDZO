@@ -34,11 +34,12 @@ status   : Open to internships, junior developer opportunities and collaboration
 | Project | Description | Tech |
 | --- | --- | --- |
 | **ServisPro** | Auto-service platform with client, service provider, and admin workflows. | React, ASP.NET Core, MS SQL Server, REST API |
+| **[ServisPro Documentation](https://github.com/INDZO/Softversko-Inzenjerstvo-2026)** | Complete software engineering documentation for ServisPro, including project definition, realization plan, system vision, requirements specification, architecture design, test planning, test specification, user guide, and modeling files. | Software documentation, requirements engineering, architecture, testing, UML/modeling |
 | **ElitDent** | Dental clinic web application deployed on an Ubuntu server. | Laravel, PHP, MySQL, Nginx, Ubuntu, HTTPS |
 | **Knowledge That Doesn't Fade** | AI-assisted learning application focused on helping students build durable knowledge. | Next.js, AI integration, web technologies |
 | **Stomatology IS** | Information system modeling project for a dental clinic. | SSA, DFD, EER, relational database design |
 
-<!-- TODO: Add repository or live demo links when they become public. -->
+<!-- TODO: Add more repository or live demo links when they become public. -->
 
 ---
 
@@ -72,19 +73,6 @@ status   : Open to internships, junior developer opportunities and collaboration
 ![AI](https://img.shields.io/badge/AI%20integration-0f172a?style=for-the-badge&logo=openai&logoColor=10b981)
 
 </div>
-
----
-
-## GitHub stats
-
-<div align="center">
-
-![Inas Hamzagic GitHub stats](https://github-readme-stats.vercel.app/api?username=INDZO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INDZO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## Connect with me
 
