@@ -2,11 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,45:8b5cf6,100:f97316&height=190&section=header&text=Hi,%20I'm%20Inas%20Hamzagi%C4%87&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20from%20Serbia&descSize=18&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Web+Development+%7C+Software+Development;Algorithms+%7C+Databases+%7C+Problem+Solving;Open+to+Internships%2C+Junior+Roles+and+Collaboration)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Web+Development+%7C+Software+Development;Algorithms+%7C+Databases+%7C+Problem+Solving;Open+to+Internships%2C+Junior+Roles+and+Collaboration)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamzagicinas.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzagicinas.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-INDZO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INDZO)
-[![Email](https://img.shields.io/badge/Email-hamzagicinas%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzagicinas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hamzaagicinas%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaagicinas@gmail.com)
 
 </div>
 
@@ -48,15 +48,15 @@ status   : Open to internships, junior developer opportunities and collaboration
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+![Frontend](https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap&theme=dark)
 
 ### Backend and databases
 
-[![Backend and databases](https://skillicons.dev/icons?i=dotnet,cs,php,laravel,mysql,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+![Backend and databases](https://skillicons.dev/icons?i=dotnet,cs,php,laravel,mysql,mongodb,sqlite&theme=dark)
 
 ### Programming and tools
 
-[![Programming and tools](https://skillicons.dev/icons?i=c,cpp,python,git,github,visualstudio,vscode,figma&theme=dark)](https://skillicons.dev)
+![Programming and tools](https://skillicons.dev/icons?i=c,cpp,python,git,github,visualstudio,vscode,figma&theme=dark)
 
 </div>
 
@@ -92,7 +92,7 @@ status   : Open to internships, junior developer opportunities and collaboration
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzagicinas.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-INDZO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INDZO)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzagicinas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaagicinas@gmail.com)
 
 </div>
 
