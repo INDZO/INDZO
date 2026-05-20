@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamzagicinas.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzagicinas.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-INDZO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INDZO)
+[![CV](https://img.shields.io/badge/CV-Download-22c55e?style=for-the-badge&logo=readme&logoColor=white)](./Inas%20Hamzagic.pdf)
 [![Email](https://img.shields.io/badge/Email-hamzaagicinas%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaagicinas@gmail.com)
 
 </div>
@@ -80,6 +81,7 @@ status   : Open to internships, junior developer opportunities and collaboration
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzagicinas.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-INDZO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INDZO)
+[![CV](https://img.shields.io/badge/CV-Download-22c55e?style=for-the-badge&logo=readme&logoColor=white)](./Inas%20Hamzagic.pdf)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaagicinas@gmail.com)
 
 </div>
