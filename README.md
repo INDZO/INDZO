@@ -12,9 +12,9 @@
 **Software Engineering Student & Developer**  
 I build full-stack web apps and like following a feature from the first interface sketch through its API and data model. My core stack is **React, JavaScript, C#, ASP.NET Core, and SQL**.
 
-[DIYAR client project](#diyar) · [Featured work](#featured-work) · [Engineering stack](#engineering-stack) · [Live portfolio](https://hamzagicinas.vercel.app/) · [GitHub projects](https://github.com/INDZO?tab=repositories) · [Contact](#contact)
+[DIYAR client project](#diyar) · [Featured engineering](#featured-engineering) · [Academic & applied](#academic--applied-projects) · [Creative Lab](#creative-lab) · [Engineering stack](#engineering-stack) · [Live portfolio](https://hamzagicinas.vercel.app/) · [GitHub projects](https://github.com/INDZO?tab=repositories) · [Contact](#contact)
 
-## Featured work
+## Featured engineering
 
 ### DIYAR
 
@@ -22,18 +22,28 @@ I build full-stack web apps and like following a feature from the first interfac
 
 I handled client communication, prototyping, brand identity, and interface design. I built and delivered the property listing site, its admin tools, and Gemini-powered translation.
 
-[Visit the client website ↗](https://diyar.rs/) · [Engineering showcase ↗](https://github.com/INDZO/DIYAR-Showcase) · Next.js, TypeScript, Drizzle ORM, PostgreSQL, Gemini
+[Visit the client website ↗](https://diyar.rs/) · [Engineering showcase ↗](https://github.com/INDZO/DIYAR-Showcase)
 
 <picture>
   <source media="(max-width: 560px)" srcset="assets/diyar-mobile.jpg">
   <img src="assets/diyar.jpg" width="1120" alt="DIYAR's public home page with the real estate brand and a link to browse property listings.">
 </picture>
 
+### ServisPro
+
+**Software Engineering · Full-stack workshop booking**
+
+I built a React client and ASP.NET Core REST API for customers, workshops, and administrators, with SQL Server and EF Core behind the booking and service history flows.
+
+<img src="assets/servispro-booking.jpg" width="940" alt="ServisPro directory showing fictional workshops, service filters and booking actions.">
+
+[Source code ↗](https://github.com/INDZO/ServisPro-Source) · [Engineering documentation ↗](https://github.com/INDZO/Softversko-Inzenjerstvo-2026) · [Live booking demo ↗](https://indzo-servispro-demo.vercel.app/) · Browser-only; fictional data.
+
 ### GiveBack
 
-**Independent full-stack academic project · Volunteer coordination**
+**Advanced Databases · Volunteer coordination**
 
-GiveBack lets organizations publish opportunities and volunteers find them. I designed the relational database and built the React frontend and ASP.NET Core backend. The backend uses **Clean Architecture** and **CQRS**, with MediatR for commands and queries and EF Core for SQL Server persistence.
+I designed the relational model and built a React client and ASP.NET Core API for coordinating volunteers and opportunities. The API uses **Clean Architecture**, **CQRS** with MediatR, and EF Core with SQL Server.
 
 <picture>
   <source media="(max-width: 560px)" srcset="assets/giveback.jpg">
@@ -41,7 +51,7 @@ GiveBack lets organizations publish opportunities and volunteers find them. I de
   <img src="assets/giveback-system-light.jpg" width="1120" alt="GiveBack's public interface beside a simplified request path from React through ASP.NET Core and CQRS handlers to EF Core and SQL Server.">
 </picture>
 
-[Live Demo ↗](https://giveback-frontend.vercel.app/) · [Engineering showcase ↗](https://github.com/INDZO/GiveBack-Showcase) · [React source ↗](https://github.com/INDZO/GiveBack-Source)
+[Hosted frontend ↗](https://giveback-frontend.vercel.app/) · [Engineering showcase ↗](https://github.com/INDZO/GiveBack-Showcase) · [React source ↗](https://github.com/INDZO/GiveBack-Source)
 
 ### InasOS
 
@@ -54,8 +64,66 @@ I built a browser-based desktop with apps, a dock, and a searchable Projects win
   <img src="assets/inasos-still.jpg" width="704" alt="InasOS desktop with its Projects window open, showing search, filters, and project cards.">
 </picture>
 
-[Open InasOS ↗](https://hamzagicinas.vercel.app/) · [Public source ↗](https://github.com/INDZO/InasOS) · [Engineering guide ↗](https://github.com/INDZO/InasOS/wiki)  
-Next.js, React, TypeScript, Zustand, Framer Motion
+[Open InasOS ↗](https://hamzagicinas.vercel.app/) · [Public source ↗](https://github.com/INDZO/InasOS) · [Engineering guide ↗](https://github.com/INDZO/InasOS/wiki)
+
+## Academic & applied projects
+
+### Bitka Grid Chase
+
+**Artificial Intelligence** · React and Django Channels power a turn-based game that implements Minimax, alpha–beta pruning, A*, and Monte Carlo tree search.
+
+[Source code ↗](https://github.com/INDZO/Bitka-Grid-Chase) · [Original Render demo ↗](https://bitka-upside-down.onrender.com/)
+
+<details>
+<summary>Game screenshot</summary>
+
+<img src="assets/bitka.jpg" width="630" alt="Bitka Upside Down title screen and its pixel-art chase board.">
+
+</details>
+
+### ElitDent
+
+**Information Systems · Internet Application Programming** · Dental appointment and practice workflows built with Laravel, Angular, and MySQL. The repository includes the original requirements and data models.
+
+[Source and seminar paper ↗](https://github.com/INDZO/ElitDent-Source) · [Live booking demo ↗](https://indzo-elitdent-demo.vercel.app/) · Browser-only; fictional data.
+
+### eSufara
+
+**Object-Oriented Programming 2** · C# and WPF course player with account-based progress tracked through EF Core.
+
+[Source code ↗](https://github.com/INDZO/eSufara)
+
+### tele.com
+
+**Web Design** · A multi-page telecom storefront built with HTML, CSS, and JavaScript.
+
+[Source code ↗](https://github.com/INDZO/tele.com) · [Live site ↗](https://indzo.github.io/tele.com/)
+
+### IS Biblioteka
+
+**Independent high-school graduation project** · A C# Windows Forms application for books, members, and lending.
+
+[Source code ↗](https://github.com/INDZO/IS_Biblioteka-master)
+
+## Creative Lab
+
+### FORGE
+
+A cinematic AI launch world builder that turns a product brief into a brand concept. Built with Next.js and TypeScript.
+
+<a href="https://forge-world-builder.vercel.app/"><img src="assets/forge-preview.jpg" width="720" alt="FORGE landing page introducing its AI launch world builder."></a>
+
+[Open FORGE ↗](https://forge-world-builder.vercel.app/)
+
+### DIYAR 3D
+
+A scroll-led real-estate walkthrough for DIYAR, built with HTML, CSS, and JavaScript.
+
+<a href="https://3d-model-walktrough.vercel.app/"><img src="assets/diyar-3d-preview.jpg" width="720" alt="DIYAR 3D walkthrough showing the entry view and chapter navigation."></a>
+
+[Open DIYAR 3D ↗](https://3d-model-walktrough.vercel.app/)
+
+## Collaboration
 
 ### Oranž
 
@@ -65,43 +133,7 @@ We built an AI-assisted tool that turns course materials into structured study s
 
 <img src="assets/oranz.jpg" width="740" alt="The Oranž team's public study platform homepage.">
 
-[Visit the team's product ↗](https://www.oranz.study/) · Next.js, TypeScript, Supabase
-
-## More engineering work
-
-### ServisPro
-
-I independently built a service-booking platform for customers, workshops, and administrators with a **React** frontend, an **ASP.NET Core REST API**, and **SQL Server**.
-
-[Frontend and API source ↗](https://github.com/INDZO/ServisPro-Source) · [Engineering documentation ↗](https://github.com/INDZO/Softversko-Inzenjerstvo-2026)
-
-### Bitka Upside Down
-
-A turn-based 8-bit chase game built for a university AI project. The Django backend manages rules, maps, timers, and statistics, with SQLite for persistence. React receives live updates over **WebSockets** via Django Channels, with a REST fallback. The project explores **Minimax, alpha–beta pruning, A\*, and Monte Carlo tree search**.
-
-[Frontend and backend source ↗](https://github.com/INDZO/Bitka-Grid-Chase) · [Original Render demo ↗](https://bitka-upside-down.onrender.com/) · Availability can vary.
-
-<details>
-<summary>Game screenshot</summary>
-
-<img src="assets/bitka.jpg" width="630" alt="Bitka Upside Down title screen and its pixel-art chase board.">
-
-</details>
-
-<details>
-<summary>Earlier projects</summary>
-
-- **[tele.com](https://indzo.github.io/tele.com/)** · Multi-page telecom website built with HTML, CSS, and JavaScript. [Public source](https://github.com/INDZO/tele.com)
-- **[IS Biblioteka](https://github.com/INDZO/IS_Biblioteka-master)** · C# and Windows Forms application for managing books, members, and lending.
-- **[eSufara](https://github.com/INDZO/eSufara)** · WPF course application with EF Core and SQL Server, built for Object-Oriented Programming 2.
-- **[ElitDent](https://github.com/INDZO/ElitDent-Source)** · Academic application for dental clinic workflows, built with Laravel, Angular, and MySQL.
-
-</details>
-
-## Creative experiments
-
-- **[FORGE ↗](https://forge-world-builder.vercel.app/)** · Cinematic AI world builder for product launches, built with Next.js and TypeScript.
-- **[DIYAR 3D ↗](https://3d-model-walktrough.vercel.app/)** · Interactive real-estate walkthrough for DIYAR, built with HTML, CSS, and JavaScript.
+[Visit the team's product ↗](https://www.oranz.study/)
 
 ## Engineering stack
 
