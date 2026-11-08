@@ -41,6 +41,8 @@ GiveBack lets organizations publish opportunities and volunteers find them. I de
   <img src="assets/giveback-system-light.jpg" width="1120" alt="GiveBack's public interface beside a simplified request path from React through ASP.NET Core and CQRS handlers to EF Core and SQL Server.">
 </picture>
 
+[Live Demo ↗](https://giveback-frontend.vercel.app/)
+
 ### InasOS
 
 **Interactive portfolio · AI-assisted development**
