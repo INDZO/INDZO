@@ -41,7 +41,7 @@ GiveBack lets organizations publish opportunities and volunteers find them. I de
   <img src="assets/giveback-system-light.jpg" width="1120" alt="GiveBack's public interface beside a simplified request path from React through ASP.NET Core and CQRS handlers to EF Core and SQL Server.">
 </picture>
 
-[Live Demo ↗](https://giveback-frontend.vercel.app/) · [Engineering showcase ↗](https://github.com/INDZO/GiveBack-Showcase)
+[Live Demo ↗](https://giveback-frontend.vercel.app/) · [Engineering showcase ↗](https://github.com/INDZO/GiveBack-Showcase) · [React source ↗](https://github.com/INDZO/GiveBack-Source)
 
 ### InasOS
 
@@ -73,13 +73,13 @@ We built an AI-assisted tool that turns course materials into structured study s
 
 I independently built a service-booking platform for customers, workshops, and administrators with a **React** frontend, an **ASP.NET Core REST API**, and **SQL Server**.
 
-[Browse the public documentation ↗](https://github.com/INDZO/Softversko-Inzenjerstvo-2026) · Requirements, architecture, models, testing, and user guide.
+[Frontend and API source ↗](https://github.com/INDZO/ServisPro-Source) · [Engineering documentation ↗](https://github.com/INDZO/Softversko-Inzenjerstvo-2026)
 
 ### Bitka Upside Down
 
 A turn-based 8-bit chase game built for a university AI project. The Django backend manages rules, maps, timers, and statistics, with SQLite for persistence. React receives live updates over **WebSockets** via Django Channels, with a REST fallback. The project explores **Minimax, alpha–beta pruning, A\*, and Monte Carlo tree search**.
 
-[Open the Render demo ↗](https://bitka-upside-down.onrender.com/) · Availability can vary.
+[Frontend and backend source ↗](https://github.com/INDZO/Bitka-Grid-Chase) · [Original Render demo ↗](https://bitka-upside-down.onrender.com/) · Availability can vary.
 
 <details>
 <summary>Game screenshot</summary>
@@ -93,9 +93,15 @@ A turn-based 8-bit chase game built for a university AI project. The Django back
 
 - **[tele.com](https://indzo.github.io/tele.com/)** · Multi-page telecom website built with HTML, CSS, and JavaScript. [Public source](https://github.com/INDZO/tele.com)
 - **[IS Biblioteka](https://github.com/INDZO/IS_Biblioteka-master)** · C# and Windows Forms application for managing books, members, and lending.
-- **ElitDent** · Academic application for dental clinic workflows, built with Laravel, Angular, and MySQL.
+- **[eSufara](https://github.com/INDZO/eSufara)** · WPF course application with EF Core and SQL Server, built for Object-Oriented Programming 2.
+- **[ElitDent](https://github.com/INDZO/ElitDent-Source)** · Academic application for dental clinic workflows, built with Laravel, Angular, and MySQL.
 
 </details>
+
+## Creative experiments
+
+- **[FORGE ↗](https://forge-world-builder.vercel.app/)** · Cinematic AI world builder for product launches, built with Next.js and TypeScript.
+- **[DIYAR 3D ↗](https://3d-model-walktrough.vercel.app/)** · Interactive real-estate walkthrough for DIYAR, built with HTML, CSS, and JavaScript.
 
 ## Engineering stack
 
