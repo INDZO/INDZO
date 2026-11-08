@@ -22,7 +22,7 @@ I build full-stack web apps and like following a feature from the first interfac
 
 I handled client communication, prototyping, brand identity, and interface design. I built and delivered the property listing site, its admin tools, and Gemini-powered translation.
 
-[Visit the client website ↗](https://diyar.rs/) · Next.js, TypeScript, Drizzle ORM, PostgreSQL, Gemini
+[Visit the client website ↗](https://diyar.rs/) · [Engineering showcase ↗](https://github.com/INDZO/DIYAR-Showcase) · Next.js, TypeScript, Drizzle ORM, PostgreSQL, Gemini
 
 <picture>
   <source media="(max-width: 560px)" srcset="assets/diyar-mobile.jpg">
@@ -41,7 +41,7 @@ GiveBack lets organizations publish opportunities and volunteers find them. I de
   <img src="assets/giveback-system-light.jpg" width="1120" alt="GiveBack's public interface beside a simplified request path from React through ASP.NET Core and CQRS handlers to EF Core and SQL Server.">
 </picture>
 
-[Live Demo ↗](https://giveback-frontend.vercel.app/)
+[Live Demo ↗](https://giveback-frontend.vercel.app/) · [Engineering showcase ↗](https://github.com/INDZO/GiveBack-Showcase)
 
 ### InasOS
 
@@ -54,7 +54,7 @@ I built a browser-based desktop with apps, a dock, and a searchable Projects win
   <img src="assets/inasos-still.jpg" width="704" alt="InasOS desktop with its Projects window open, showing search, filters, and project cards.">
 </picture>
 
-[Open InasOS ↗](https://hamzagicinas.vercel.app/) · [Public source ↗](https://github.com/INDZO/InasOS)  
+[Open InasOS ↗](https://hamzagicinas.vercel.app/) · [Public source ↗](https://github.com/INDZO/InasOS) · [Engineering guide ↗](https://github.com/INDZO/InasOS/wiki)  
 Next.js, React, TypeScript, Zustand, Framer Motion
 
 ### Oranž
