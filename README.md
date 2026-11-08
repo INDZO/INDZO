@@ -1,94 +1,136 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="assets/workspace-mobile-dark.png">
+  <source media="(max-width: 560px)" srcset="assets/workspace-mobile-light.png">
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: no-preference)" srcset="assets/workspace-dark.gif">
+  <source media="(prefers-color-scheme: light) and (prefers-reduced-motion: no-preference)" srcset="assets/workspace-light.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/workspace-dark.png">
+  <img src="assets/workspace-light.png" width="1120" alt="INDZO Developer Command Center. A signal connects Interface, API, and Data.">
+</picture>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,45:8b5cf6,100:f97316&height=190&section=header&text=Hi,%20I'm%20Inas%20Hamzagi%C4%87&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20from%20Serbia&descSize=18&descAlignY=58)
+# Inas Hamzagić
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Web+Development+%7C+Software+Development;Algorithms+%7C+Databases+%7C+Problem+Solving;Open+to+Internships%2C+Junior+Roles+and+Collaboration)
+**Software Engineering Student & Developer**  
+I build full-stack web apps and like following a feature from the first interface sketch through its API and data model. My core stack is **React, JavaScript, C#, ASP.NET Core, and SQL**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzagicinas.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-INDZO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INDZO)
-[![CV](https://img.shields.io/badge/CV-Download-22c55e?style=for-the-badge&logo=readme&logoColor=white)](./Inas%20Hamzagic.pdf)
-[![Email](https://img.shields.io/badge/Email-hamzaagicinas%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaagicinas@gmail.com)
+[DIYAR client project](#diyar) · [Featured work](#featured-work) · [Engineering stack](#engineering-stack) · [Live portfolio](https://hamzagicinas.vercel.app/) · [GitHub projects](https://github.com/INDZO?tab=repositories) · [Contact](#contact)
 
-</div>
+## Featured work
 
----
+### DIYAR
 
-## About me
+**Independent client delivery · Real estate**
 
-```txt
-name     : Inas Hamzagić
-role     : Software Engineering Student
-location : Novi Pazar, Serbia
-focus    : Web development, software development, algorithms, databases
-status   : Open to internships, junior developer opportunities and collaboration
-```
+I handled client communication, prototyping, brand identity, and interface design. I built and delivered the property listing site, its admin tools, and Gemini-powered translation.
 
-- Third-year Software Engineering student at the State University of Novi Pazar.
-- I enjoy building practical, user-friendly software and learning through real projects.
-- 1st place winner at the 3rd UNINP Hackathon.
-- Currently focused on full-stack web projects, algorithms, data structures, and AI integration.
+[Visit the client website ↗](https://diyar.rs/) · Next.js, TypeScript, Drizzle ORM, PostgreSQL, Gemini
 
----
+<picture>
+  <source media="(max-width: 560px)" srcset="assets/diyar-mobile.jpg">
+  <img src="assets/diyar.jpg" width="1120" alt="DIYAR's public home page with the real estate brand and a link to browse property listings.">
+</picture>
 
-## Featured projects
+### GiveBack
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| **ServisPro** | Auto-service platform with client, service provider, and admin workflows. | React, ASP.NET Core, MS SQL Server, REST API |
-| **[Bitka Upside Down](https://bitka-upside-down.onrender.com/)** | Full-stack realtime turn-based 8-bit chase game with backend-owned game rules, maps, timers, AI decisions, statistics, WebSocket updates, and REST fallback. | React, Vite, Django, DRF, Django Channels, WebSocket, SQLite, MinMax, Alpha-Beta, A*, MCTS |
-| **[ServisPro Documentation](https://github.com/INDZO/Softversko-Inzenjerstvo-2026)** | Complete software engineering documentation for ServisPro, including project definition, realization plan, system vision, requirements specification, architecture design, test planning, test specification, user guide, and modeling files. | Software documentation, requirements engineering, architecture, testing, UML/modeling |
-| **[tele.com](https://indzo.github.io/tele.com/)** | Static telecom website with multiple pages for services, packages, contact, login/account flow, and user data handling. [Code](https://github.com/INDZO/tele.com) | HTML, CSS, JavaScript, GitHub Pages |
-| **[IS Biblioteka](https://github.com/INDZO/IS_Biblioteka-master)** | Desktop information system for library management with forms for books, members, issuing books, repositories, and database connection logic. | C#, Windows Forms, .NET |
-| **ElitDent** | Dental clinic web application deployed on an Ubuntu server. | Laravel, PHP, MySQL, Nginx, Ubuntu, HTTPS |
-| **Knowledge That Doesn't Fade** | AI-assisted learning application focused on helping students build durable knowledge. | Next.js, AI integration, web technologies |
-| **Stomatology IS** | Information system modeling project for a dental clinic. | SSA, DFD, EER, relational database design |
+**Independent full-stack academic project · Volunteer coordination**
 
-<!-- TODO: Add more repository or live demo links when they become public. -->
+GiveBack lets organizations publish opportunities and volunteers find them. I designed the relational database and built the React frontend and ASP.NET Core backend. The backend uses **Clean Architecture** and **CQRS**, with MediatR for commands and queries and EF Core for SQL Server persistence.
 
----
+<picture>
+  <source media="(max-width: 560px)" srcset="assets/giveback.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/giveback-system.jpg">
+  <img src="assets/giveback-system-light.jpg" width="1120" alt="GiveBack's public interface beside a simplified request path from React through ASP.NET Core and CQRS handlers to EF Core and SQL Server.">
+</picture>
 
-## Languages and tools
+### InasOS
 
-<div align="center">
+**Interactive portfolio · AI-assisted development**
 
-### Frontend
+I built a browser-based desktop with apps, a dock, and a searchable Projects window. AI-assisted iteration helped me refine the interface and navigation between views.
 
-![Frontend](https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap&theme=dark)
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/inasos-projects.gif">
+  <img src="assets/inasos-still.jpg" width="704" alt="InasOS desktop with its Projects window open, showing search, filters, and project cards.">
+</picture>
 
-### Backend and databases
+[Open InasOS ↗](https://hamzagicinas.vercel.app/) · [Public source ↗](https://github.com/INDZO/InasOS)  
+Next.js, React, TypeScript, Zustand, Framer Motion
 
-![Backend and databases](https://skillicons.dev/icons?i=dotnet,cs,php,laravel,mysql,mongodb,sqlite&theme=dark)
+### Oranž
 
-### Programming and tools
+**AI-assisted study platform · Team project**
 
-![Programming and tools](https://skillicons.dev/icons?i=c,cpp,python,git,github,visualstudio,vscode,figma&theme=dark)
+We built an AI-assisted tool that turns course materials into structured study sessions. I proposed the concept we chose, tested the app, helped present the technical solution, and initiated the live QR-based demo. Our team placed first at the 2026 UNINP Hackathon.
 
-</div>
+<img src="assets/oranz.jpg" width="740" alt="The Oranž team's public study platform homepage.">
 
----
+[Visit the team's product ↗](https://www.oranz.study/) · Next.js, TypeScript, Supabase
 
-## Currently learning and focusing on
+## More engineering work
 
-<div align="center">
+### ServisPro
 
-![Full-stack](https://img.shields.io/badge/Full--stack%20web%20projects-0f172a?style=for-the-badge&logo=codeigniter&logoColor=38bdf8)
-![Algorithms](https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-0f172a?style=for-the-badge&logo=leetcode&logoColor=facc15)
-![Modern stacks](https://img.shields.io/badge/Modern%20frontend%20%26%20backend-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20integration-0f172a?style=for-the-badge&logo=openai&logoColor=10b981)
+I independently built a service-booking platform for customers, workshops, and administrators with a **React** frontend, an **ASP.NET Core REST API**, and **SQL Server**.
 
-</div>
+[Browse the public documentation ↗](https://github.com/INDZO/Softversko-Inzenjerstvo-2026) · Requirements, architecture, models, testing, and user guide.
 
-## Connect with me
+### Bitka Upside Down
 
-<div align="center">
+A turn-based 8-bit chase game built for a university AI project. The Django backend manages rules, maps, timers, and statistics, with SQLite for persistence. React receives live updates over **WebSockets** via Django Channels, with a REST fallback. The project explores **Minimax, alpha–beta pruning, A\*, and Monte Carlo tree search**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzagicinas.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-INDZO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INDZO)
-[![CV](https://img.shields.io/badge/CV-Download-22c55e?style=for-the-badge&logo=readme&logoColor=white)](./Inas%20Hamzagic.pdf)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaagicinas@gmail.com)
+[Open the Render demo ↗](https://bitka-upside-down.onrender.com/) · Availability can vary.
 
-</div>
+<details>
+<summary>Game screenshot</summary>
 
-<!-- TODO: Add LinkedIn when the public profile URL is available. -->
+<img src="assets/bitka.jpg" width="630" alt="Bitka Upside Down title screen and its pixel-art chase board.">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:f97316,45:8b5cf6,100:0ea5e9&height=120&section=footer)
+</details>
+
+<details>
+<summary>Earlier projects</summary>
+
+- **[tele.com](https://indzo.github.io/tele.com/)** · Multi-page telecom website built with HTML, CSS, and JavaScript. [Public source](https://github.com/INDZO/tele.com)
+- **[IS Biblioteka](https://github.com/INDZO/IS_Biblioteka-master)** · C# and Windows Forms application for managing books, members, and lending.
+- **ElitDent** · Academic application for dental clinic workflows, built with Laravel, Angular, and MySQL.
+
+</details>
+
+## Engineering stack
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/workbench-dark.png">
+  <img src="assets/workbench-light.png" width="1120" alt="">
+</picture>
+</p>
+
+| Area | What I use |
+| --- | --- |
+| <picture><img src="assets/stack-frontend.svg" width="18" height="18" alt=""></picture> **Frontend** | React, JavaScript, HTML, and CSS for web interfaces. |
+| <picture><img src="assets/stack-backend.svg" width="18" height="18" alt=""></picture> **Backend & APIs** | C# and ASP.NET Core for REST APIs and application logic. |
+| <picture><img src="assets/stack-data.svg" width="18" height="18" alt=""></picture> **Data & architecture** | SQL and relational modeling. Clean Architecture and CQRS in [GiveBack](#giveback). |
+| <picture><img src="assets/stack-workflow.svg" width="18" height="18" alt=""></picture> **Tools & workflow** | Git and GitHub for version control. AI-assisted prototyping and interface iteration in [InasOS](#inasos). |
+
+**Additional project experience** · TypeScript, PHP, Python, Angular, and Laravel.
+
+## About
+
+**Novi Pazar, Serbia** · Final-year Software Engineering student at the State University of Novi Pazar.
+
+I’m especially interested in algorithms, data structures, and practical AI integration.
+
+[Public GitHub activity ↗](https://github.com/INDZO) · Some projects live in private repositories.
+
+## Contact
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.png">
+  <img src="assets/contact-light.png" width="1120" alt="">
+</picture>
+</p>
+
+Open to internships, junior developer roles, and collaboration.
+
+**Work** · [Live portfolio ↗](https://hamzagicinas.vercel.app/) · [GitHub ↗](https://github.com/INDZO)  
+**Contact** · [LinkedIn ↗](https://www.linkedin.com/in/hamzagicinas/) · [hamzagicinas@gmail.com](mailto:hamzagicinas@gmail.com)
