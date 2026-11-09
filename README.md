@@ -51,7 +51,7 @@ I designed the relational model and built a React client and ASP.NET Core API fo
   <img src="assets/giveback-system-light.jpg" width="1120" alt="GiveBack's public interface beside a simplified request path from React through ASP.NET Core and CQRS handlers to EF Core and SQL Server.">
 </picture>
 
-[Hosted frontend ↗](https://giveback-frontend.vercel.app/) · [Engineering showcase ↗](https://github.com/INDZO/GiveBack-Showcase) · [React source ↗](https://github.com/INDZO/GiveBack-Source)
+[Full-stack source ↗](https://github.com/INDZO/GiveBack-Source) · [Engineering showcase ↗](https://github.com/INDZO/GiveBack-Showcase) · [Hosted frontend ↗](https://giveback-frontend.vercel.app/)
 
 ### InasOS
 
