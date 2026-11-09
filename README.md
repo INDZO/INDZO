@@ -9,8 +9,8 @@
 
 # Inas Hamzagić
 
-**Software Engineering Student & Developer**  
-I build full-stack web apps and like following a feature from the first interface sketch through its API and data model. My core stack is **React, JavaScript, C#, ASP.NET Core, and SQL**.
+**Software Engineering Student | Full-Stack Developer**  
+I build full-stack web apps, from interface design to APIs and relational data models. My core stack is **React, ASP.NET Core, C#, and SQL**.
 
 [DIYAR client project](#diyar) · [Featured engineering](#featured-engineering) · [Academic & applied](#academic--applied-projects) · [Creative Lab](#creative-lab) · [Engineering stack](#engineering-stack) · [Live portfolio](https://hamzagicinas.vercel.app/) · [GitHub projects](https://github.com/INDZO?tab=repositories) · [Contact](#contact)
 
@@ -37,7 +37,7 @@ I built a React client and ASP.NET Core REST API for customers, workshops, and a
 
 <img src="assets/servispro-booking.jpg" width="940" alt="ServisPro directory showing fictional workshops, service filters and booking actions.">
 
-[Source code ↗](https://github.com/INDZO/ServisPro-Source) · [Engineering documentation ↗](https://github.com/INDZO/Softversko-Inzenjerstvo-2026) · [Live frontend demo ↗](https://indzo-servispro-demo.vercel.app/) · Fictional data that resets on refresh.
+[Source code ↗](https://github.com/INDZO/ServisPro-Source) · [Engineering documentation ↗](https://github.com/INDZO/Softversko-Inzenjerstvo-2026) · [Live frontend demo ↗](https://indzo-servispro-demo.vercel.app/) · Runs entirely in the browser with fictional data that resets on refresh.
 
 ### GiveBack
 
@@ -157,7 +157,7 @@ We built an AI-assisted tool that turns course materials into structured study s
 
 **Novi Pazar, Serbia** · Final-year Software Engineering student at the State University of Novi Pazar.
 
-I’m especially interested in algorithms, data structures, and practical AI integration.
+Beyond web development, I work on desktop applications and enjoy exploring software architecture, algorithms, data structures, and practical uses of AI.
 
 [Public GitHub activity ↗](https://github.com/INDZO) · Some projects live in private repositories.
 
