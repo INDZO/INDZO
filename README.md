@@ -23,7 +23,9 @@ I build full-stack web apps, from interface design to APIs and relational data m
       Explore my education, technical skills, client work, and selected engineering projects.<br><br>
       <strong><a href="https://github.com/INDZO/INDZO/blob/main/resume/Inas_Hamzagic_Resume.pdf">View Resume ↗</a></strong>
       &nbsp;·&nbsp;
-      <a href="https://github.com/INDZO/INDZO/raw/refs/heads/main/resume/Inas_Hamzagic_Resume.pdf?download=1">Download PDF ↓</a>
+      <a href="https://github.com/INDZO/INDZO/raw/refs/heads/main/resume/Inas_Hamzagic_Resume.pdf?download=1">Download PDF ↓</a><br><br>
+      <strong><a href="https://hamzagicinas.vercel.app/">Explore InasOS ↗</a></strong>
+      &nbsp;·&nbsp; Interactive developer portfolio
     </td>
   </tr>
 </table>
