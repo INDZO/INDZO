@@ -37,7 +37,7 @@ I built a React client and ASP.NET Core REST API for customers, workshops, and a
 
 <img src="assets/servispro-booking.jpg" width="940" alt="ServisPro directory showing fictional workshops, service filters and booking actions.">
 
-[Source code ↗](https://github.com/INDZO/ServisPro-Source) · [Engineering documentation ↗](https://github.com/INDZO/Softversko-Inzenjerstvo-2026) · [Live booking demo ↗](https://indzo-servispro-demo.vercel.app/) · Browser-only; fictional data.
+[Source code ↗](https://github.com/INDZO/ServisPro-Source) · [Engineering documentation ↗](https://github.com/INDZO/Softversko-Inzenjerstvo-2026) · [Live frontend demo ↗](https://indzo-servispro-demo.vercel.app/) · Fictional data that resets on refresh.
 
 ### GiveBack
 
@@ -72,7 +72,7 @@ I built a browser-based desktop with apps, a dock, and a searchable Projects win
 
 **Artificial Intelligence** · React and Django Channels power a turn-based game that implements Minimax, alpha–beta pruning, A*, and Monte Carlo tree search.
 
-[Source code ↗](https://github.com/INDZO/Bitka-Grid-Chase) · [Original Render demo ↗](https://bitka-upside-down.onrender.com/)
+[Source code ↗](https://github.com/INDZO/Bitka-Grid-Chase) · [Screenshot and local preview ↗](https://github.com/INDZO/Bitka-Grid-Chase#preview) · [Original Render demo ↗](https://bitka-upside-down.onrender.com/)
 
 <details>
 <summary>Game screenshot</summary>
@@ -85,7 +85,7 @@ I built a browser-based desktop with apps, a dock, and a searchable Projects win
 
 **Information Systems · Internet Application Programming** · Dental appointment and practice workflows built with Laravel, Angular, and MySQL. The repository includes the original requirements and data models.
 
-[Source and seminar paper ↗](https://github.com/INDZO/ElitDent-Source) · [Live booking demo ↗](https://indzo-elitdent-demo.vercel.app/) · Browser-only; fictional data.
+[Source and seminar paper ↗](https://github.com/INDZO/ElitDent-Source) · [Live frontend demo ↗](https://indzo-elitdent-demo.vercel.app/) · Fictional data that resets on refresh.
 
 ### eSufara
 
