@@ -12,7 +12,7 @@
 **Software Engineering Student | Full-Stack Developer**  
 I build full-stack web apps, from interface design to APIs and relational data models. My core stack is **React, ASP.NET Core, C#, and SQL**.
 
-[DIYAR client project](#diyar) · [Featured engineering](#featured-engineering) · [Academic & applied](#academic--applied-projects) · [Creative Lab](#creative-lab) · [Engineering stack](#engineering-stack) · [Live portfolio](https://hamzagicinas.vercel.app/) · [GitHub projects](https://github.com/INDZO?tab=repositories) · [Contact](#contact)
+[DIYAR client project](#diyar) · [Featured engineering](#featured-engineering) · [Academic & applied](#academic--applied-projects) · [Creative Lab](#creative-lab) · [Engineering stack](#engineering-stack) · [Live portfolio](https://hamzagicinas.vercel.app/) · [Resume (PDF)](resume/Inas_Hamzagic_Resume.pdf) · [GitHub projects](https://github.com/INDZO?tab=repositories) · [Contact](#contact)
 
 ## Featured engineering
 
